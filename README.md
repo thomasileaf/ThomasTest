@@ -1,4 +1,4 @@
 ThomasTest
 ==========
 
-for tes purpose
+for test purpose
